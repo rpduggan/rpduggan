@@ -1,9 +1,5 @@
 ## rpduggan's profile
 
-[rpduggan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpduggan&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpduggan&layout=compact&langs_count=8&count_private=true&theme=transparent)
-
 ![rpduggan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpduggan&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpduggan&layout=compact&langs_count=8&count_private=true&theme=transparent)
